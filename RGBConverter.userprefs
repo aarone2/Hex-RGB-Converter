@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{B500D0E8-78B9-4148-A6DE-9207B67A2083}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RGBConverter/Main.storyboard">
+    <Files>
+      <File FileName="RGBConverter/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
